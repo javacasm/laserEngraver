@@ -34,3 +34,9 @@ Existe un software llamado BenBox (de una campaña de kickstarted que no salío)
 [DIY Laser  cutting & engraving](http://www.instructables.com/id/Laser-Engraved-Bookmark-With-a-Cheap-Laser-Engrave/?utm_source=pdf&utm_campaign=related)
 
 [How to laser engraver](http://www.instructables.com/id/How-To-Laser-Cutter/)
+
+[Vídeo Cómo configurar GRBL](https://www.youtube.com/watch?v=zf2RbZb45gw)
+
+[Vídeo Cómo cargar GRBL](https://www.youtube.com/watch?annotation_id=annotation_3187048669&feature=iv&src_vid=zf2RbZb45gw&v=0NEhhZAA8pg)
+
+[Vídeo cómo usar GRBL para mecanizar](https://www.youtube.com/watch?v=_QG86v7_qo0)
