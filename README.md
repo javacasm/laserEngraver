@@ -35,8 +35,22 @@ Existe un software llamado BenBox (de una campaña de kickstarted que no salío)
 
 [How to laser engraver](http://www.instructables.com/id/How-To-Laser-Cutter/)
 
+## Configurar y usar GRGL (arduino)
+
 [Vídeo Cómo configurar GRBL](https://www.youtube.com/watch?v=zf2RbZb45gw)
 
 [Vídeo Cómo cargar GRBL](https://www.youtube.com/watch?annotation_id=annotation_3187048669&feature=iv&src_vid=zf2RbZb45gw&v=0NEhhZAA8pg)
 
 [Vídeo cómo usar GRBL para mecanizar](https://www.youtube.com/watch?v=_QG86v7_qo0)
+
+## LaserWeb
+
+Es un software para generar GCODEs a partir de diseños
+
+![](https://lh3.googleusercontent.com/-jHF-euNxqdQ/WBIqgPrUurI/AAAAAAAABRk/lErxYoaLlqcyOQK8chAP4e4QMFZmN8kzQCJoC/w584-h315-rw/selection.gif)
+
+[Vídeo Demo de LaserWeb](https://www.youtube.com/watch?v=s3iyZzqiFXQ&index=2&list=PL1JTb6-HQgOyc1eM6eX4v0tdSYpXFLYNT)
+
+[Video Instalar Laserweb 3](https://www.youtube.com/watch?v=ZGu3gR9As9k&feature=autoshare)
+
+[Comunidad Laserweb](https://plus.google.com/communities/115879488566665599508)
