@@ -60,3 +60,11 @@ Es un software para generar GCODEs a partir de diseños
 [Video Instalar Laserweb 3](https://www.youtube.com/watch?v=ZGu3gR9As9k&feature=autoshare)
 
 [Comunidad Laserweb](https://plus.google.com/communities/115879488566665599508)
+
+# Laser cerrado en caja
+
+![laser cerrado caja](http://www.east-signs.com/u_file/images/16_10_14/6376934d97.jpg)
+
+[Modelo de 460€](http://www.east-signs.com/products/small-machine-parts/for-stamp-making/mini-desktop-3020-40w-co2-laser-engraving-cutting-machine-1249.html) [ebay](http://www.ebay.es/itm/182178830081)
+
+[Post sobre el tema de F. Bueno](https://plus.google.com/u/0/+FernandoBueno)
