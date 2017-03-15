@@ -67,4 +67,13 @@ Es un software para generar GCODEs a partir de diseños
 
 [Modelo de 460€](http://www.east-signs.com/products/small-machine-parts/for-stamp-making/mini-desktop-3020-40w-co2-laser-engraving-cutting-machine-1249.html) [ebay](http://www.ebay.es/itm/182178830081)
 
+[Modelo de 439€](https://www.amazon.com/Mophorn-Engraving-Machine-Engraver-200X300mm/dp/B01HUW512C/ref=as_nsa_da_sm_n_au_dka_ES_pr_da_0_0?sigts=1486938931626&sig=554f36c526eefa2fd0c40bc852c3db48341605ad&adId=B01HUW512C&creativeASIN=B01HUW512C&linkId=ae7bee8ddac91caba3ef919b393a0958&tag=whodotis-20&linkCode=w47&ref-refURL=https%3A%2F%2Fwho.is%2Fwhois%2Fugr.es&slotNum=0&imprToken=a6ca9VDMGUUe3om1DLBysA&th=1)
+
+[Otro](https://www.amazon.com/dp/B011QE1L5G?psc=1)
+
+[Otro más](https://www.amazon.com/Mophorn-Engraving-Machine-Engraver-200X300mm/dp/B01HUW50UK/ref=as_nsa_da_sm_n_au_dka_ES_pr_da_0_0?sigts=1486938931626&sig=554f36c526eefa2fd0c40bc852c3db48341605ad&adId=B01HUW512C&creativeASIN=B01HUW512C&linkId=ae7bee8ddac91caba3ef919b393a0958&tag=whodotis-20&linkCode=w47&ref-refURL=https%3A%2F%2Fwho.is%2Fwhois%2Fugr.es&slotNum=0&imprToken=a6ca9VDMGUUe3om1DLBysA&th=1)
+
+[Otro más](https://es.aliexpress.com/item/New-CO2-laser-cutting-machine-with-lift-system-up-and-down-laser-engrave-machine-with-USB/1862412945.html?spm=2114.43010208.4.52.TfvQaN)
+
 [Post sobre el tema de F. Bueno](https://plus.google.com/u/0/+FernandoBueno)
+[Comunidad sobre la K40 ](https://plus.google.com/u/0/collection/kv3JQE)
